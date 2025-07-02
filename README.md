@@ -1,4 +1,4 @@
-# LLM Webpage Summarizer
+# LLM Webpage Summarizer and Airline AI Assistant(SkyAssist)
 
 A tool that leverages Large Language Models (LLMs) to generate concise summaries of webpage content. This project uses **Ollama** for local LLM inference, eliminating the need for cloud-based APIs.
 
